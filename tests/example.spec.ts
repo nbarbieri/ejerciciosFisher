@@ -1,4 +1,4 @@
-import { test, expect, Page } from '@playwright/tests';
+import { test, expect, Page } from '@playwright/test';
 
 const usuario: string = 'tomsmith';
 const password: string = 'SuperSecretPassword!';
