@@ -1,5 +1,6 @@
 import { test, expect, Page } from '@playwright/test';
 
+//constantes
 const optionYesRadio = 'label[for="yesRadio"]';
 const optionImpressiveRadio = 'label[for="impressiveRadio"]';
 const optionNoRadio = 'label[for="noRadio"]';
